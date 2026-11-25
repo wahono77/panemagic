@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "files": {
+    "app-win.asar": {
+      "version": "1.0.6",
+      "sha256": "47ba29294edd81295462060e7dea8d98ad50d8a984bcf82dd16db3c6fab4379f",
+      "size": 29882488,
+      "electron": "37.10.3",
+      "updatedAt": "2026-11-25T10:08:15.598Z"
+    }
+  }
+}
